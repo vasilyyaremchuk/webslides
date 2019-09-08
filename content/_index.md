@@ -1,13 +1,13 @@
 +++
-title = "Hugo-Webslides"
+title = "LandingPage as Webslides"
 +++
-<!--: bg-black .wrap .size-100 ..aligncenter ..background ..dark bgimage=images/pencil.jpg -->
+<!--: slide-top .wrap .size-100 ..alignright ..fadeInUp bgimage=images/pencil.jpg -->
 
 
-## **Hugo-Webslides**
-<!--: .text-intro -->Use markdown to write contents and render with [**WebSlides**](https://webslides.tv) to HTML.
+# **Do you need a beautiful LandingPage?**
+<!--: .text-intro -->I know the fast and an elegant way to get it. Let me explain the details...
 
-[{{< svg fa-github >}}Github](https://github.com/RCJacH/hugo-webslides)
+<!--: .button -->[{{< svg fa-arrow-down >}} More Information](/#slide=2)
 
 ---
 <!-- : .wrap -->
