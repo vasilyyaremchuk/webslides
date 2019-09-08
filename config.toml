@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://landing-webslides.netlify.com/"
 theme           = "hugo-webslides"
 languageCode    = "en-us"
 title           = "Drupal/WordPress CMS Department at Speed&Function"
