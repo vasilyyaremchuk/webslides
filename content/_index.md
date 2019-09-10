@@ -1,7 +1,7 @@
 +++
 title = "LandingPage as Webslides"
 +++
-<!--: sectionClass=bg-trans-dark .wrap .size-100 ..alignright ..fadeInUp bgimage=images/pencil.jpg slideID=intro -->
+<!--: sectionClass bg-trans-dark .wrap .size-100 ..alignright ..fadeInUp bgimage=images/pencil.jpg slideID=intro -->
 
 # **Do you need a beautiful LandingPage?**
 <!--: .text-intro -->I know the fast and an elegant way to get it. Let me explain the details...
