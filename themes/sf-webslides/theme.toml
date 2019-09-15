@@ -1,0 +1,17 @@
+name = "sf-webslides"
+license = "TBD"
+licenselink = "TBD"
+description = "TBD"
+homepage = "TBD"
+tags = ["slide", "presentation", "responsive", "landing page"]
+features = ["webslides.js", "pre-made template", "shortcodes"]
+min_version = 0.56
+
+[author]
+  name = "TBD"
+  homepage = "TBD"
+
+[original]
+  name = "TBD"
+  homepage = "TBD"
+  repo = "TBD"
