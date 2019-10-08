@@ -1,6 +1,17 @@
 +++
 title = "Cheap and Elegant Website Solution"
 +++
+<section id="index" class="slide">
+  <span class="background-right-bottom" style="background-image:url('images/cms.png')"></span>
+  <div class="content-center">
+    <div class="fadeInUp">
+      <p><img src="images/logo.png" width="40%"></p>
+      <h1><strong>CMS Department</strong></h1>    
+      <p>&nbsp;</p>              
+      <p><a class="button" href="#slide=2">{{< svg fa-arrow-down >}} How we can help you?</a></p>
+    </div>
+  </div>
+</section>
 <section id="index" class="slide slide-top bg-blue" style="">
   <span class="background-right-bottom" style="background-image:url('images/intro.png')"></span>
   <div class="content-left">
