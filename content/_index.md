@@ -131,16 +131,16 @@ title = "Cheap and Elegant Website Solution"
     </ul>
   </div>
 </section>
-<section class="bg-black aligncenter slide current" id="header_footer" style="">
+<section class="aligncenter slide current" id="header_footer" style="">
   <header class="bg-trans-dark">
     <div class="wrap">
       <p>
         <span class="alignleft"> <a href="#" title="Google">
-        <img class="whitelogo" src="images/google.svg" alt="Google">
+        <img src="images/google.svg" alt="Google">
         </a></span>
         <span class="alignright">
-        <a href="#">Home</a>
-        <a href="#">About Us</a>
+        <a href="#" style="margin-right: 2em;">Home</a>
+        <a href="#" style="margin-right: 2em;">About Us</a>
         <a href="#">Contact Us</a>
         </span>
       </p>
@@ -148,18 +148,14 @@ title = "Cheap and Elegant Website Solution"
   </header>
   <span class="background" style="background-image:url('images/cup.jpg')"></span>
   <div class="wrap">
-    <h2 class="text-landing text-shadow"><strong>It's not only slides</strong></h2>
+    <h2 class="text-landing text-shadow" style="color: white;"><strong>It's not only slides</strong></h2>
     <h3 class="text-shadow">We can set header, footer and <a href="/privacy" target="_blank">separate long pages.</a></h3>
   </div>
   <footer class="bg-trans-dark">
     <div class="wrap">
       <p>
-        <span class="alignleft"> <a href="#" title="Instagram">
-        <img class="whitelogo" src="/static/images/logos/instagram.svg" alt="Instagram">
-        </a></span>
-        <span class="alignright">
-        <a href="#" class="badge-ios" title="iOS App">Install iOS app</a>
-        <a href="#" class="badge-android" title="Android app">Install Android app</a>
+        <span class="aligncenter">
+        &copy; 2019, Copyright line
         </span>
       </p>
     </div>
